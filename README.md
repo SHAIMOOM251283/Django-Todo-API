@@ -33,8 +33,8 @@ This repository contains a Django-based RESTful API for managing todo tasks. The
    cd TodoAPI
 
 3. Activate the Virtual Environment:
-   source venv/bin/activate  # On macOS/Linux
-   venv\Scripts\activate  # On Windows
+   source myenv3.10/bin/activate  # On macOS/Linux
+   myenv3.10\Scripts\activate  # On Windows
 
 4. Install Dependencies:
    pip install -r requirements.txt
